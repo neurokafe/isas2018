@@ -350,8 +350,8 @@ button:focus,
     background-size       : cover;
     padding               : 0;
     margin                : 0;
-    height                : 100vh;
-    min-height            : 700px;
+    height                : 70vh;
+    min-height            : 400px;
     vertical-align        : middle;
     position              : relative;
     background-attachment : fixed;
@@ -620,7 +620,7 @@ button:focus,
     }
 
 /* --------------------------
- * Client Logo 
+ * Client Logo
  *---------------------------*/
 
 .client-logo a img {
